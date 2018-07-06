@@ -1,0 +1,73 @@
+
+#general{
+    text-align: center;
+    background-color: black;
+
+}
+#datos{
+    background-image: url("http://cache3.asset-cache.net/xc/477459677.jpg?v=2&c=IWSAsset&k=2&d=hPhYq-5tMghm460cm6eGCnSDoVLfEXG6X7XKy702OrN0T1TlGMVBA8_WyRo0rllm0");
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    padding: 750px;
+    font-size: 90px;
+    text-align: center;
+}
+
+#velinicial{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+
+}
+#altinicial{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+}
+#angulo{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+
+}
+#gravedad{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+
+}
+#tiempo{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    font-size: 35px;
+    color: darkslategrey;
+    font-weight: bold;
+    font-family: "Century Gothic";
+
+}
+#pasos{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    color: white;
+    background-color: lightseagreen;
+
+}

@@ -1,0 +1,45 @@
+#descripcion{
+
+    background-image: url("http://i.istockimg.com/file_thumbview_approve/49492134/6/stock-illustration-49492134-education-background.jpg");
+    color: black;
+    font-weight: bold;
+
+    font-family: "Century Gothic";
+    padding: 300px;
+    text-align: center;
+}
+#titulo{
+    color: grey;
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+
+}
+#parabolico{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: "Century Gothic";
+    color: grey;
+    background-color: white;
+
+}
+
+#parrafo{
+    padding: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    font-family: Verdana;
+    color: grey;
+}
+#continuar{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    color: white;
+    background-color: darkorange;
+
+}
